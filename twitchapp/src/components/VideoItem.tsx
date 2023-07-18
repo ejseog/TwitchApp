@@ -10,6 +10,7 @@ interface Props {
 const VideoItem = (props: Props) => {
   const { thumbnail, title, userlogin, username, tags, viewercount } = props;
   const test1 = '';
+  const test3 = '';
 
   return (
     <div>
