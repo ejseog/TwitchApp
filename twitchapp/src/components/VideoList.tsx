@@ -15,6 +15,8 @@ const VideoList = () => {
   const [video, setVideo] = useState<VideoDataProps[]>([]);
   const test2 = '';
   const test4 = '';
+  const test6 = '';
+  const test8 = '';
 
   const update1 = '';
 
