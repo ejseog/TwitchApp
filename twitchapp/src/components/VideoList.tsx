@@ -16,8 +16,6 @@ const VideoList = () => {
   const test2 = '';
   const test4 = '';
 
-  const update1 = '';
-
   useEffect(() => {
     // api
     fetch('https://api.twitch.tv/helix/streams?first=100', {

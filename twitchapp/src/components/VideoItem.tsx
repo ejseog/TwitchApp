@@ -12,8 +12,6 @@ const VideoItem = (props: Props) => {
   const test1 = '';
   const test3 = '';
 
-  const update2 = '';
-
   return (
     <div>
       <div className="relative">
