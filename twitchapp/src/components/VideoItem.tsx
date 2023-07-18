@@ -11,6 +11,8 @@ const VideoItem = (props: Props) => {
   const { thumbnail, title, userlogin, username, tags, viewercount } = props;
   const test1 = '';
   const test3 = '';
+  const test6 = '';
+  const test8 = '';
 
   const update2 = '';
 
