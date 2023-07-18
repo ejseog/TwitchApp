@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { useRecoilValue } from 'recoil';
 import VideoItem from './VideoItem';
 
 interface VideoDataProps {
