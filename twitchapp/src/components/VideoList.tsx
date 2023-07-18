@@ -13,6 +13,7 @@ interface VideoDataProps {
 
 const VideoList = () => {
   const [video, setVideo] = useState<VideoDataProps[]>([]);
+  const test2 = '';
 
   useEffect(() => {
     // api
