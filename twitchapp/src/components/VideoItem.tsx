@@ -10,6 +10,8 @@ interface Props {
 const VideoItem = (props: Props) => {
   const { thumbnail, title, userlogin, username, tags, viewercount } = props;
 
+  const update2 = '';
+
   return (
     <div>
       <div className="relative">

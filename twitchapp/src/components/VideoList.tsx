@@ -14,6 +14,8 @@ interface VideoDataProps {
 const VideoList = () => {
   const [video, setVideo] = useState<VideoDataProps[]>([]);
 
+  const update1 = '';
+
   useEffect(() => {
     // api
     fetch('https://api.twitch.tv/helix/streams?first=100', {
